@@ -1,0 +1,11 @@
+question,options,answer
+What is the correct file extension for Python files?,.py|.python|.pt|.pyt,.py
+Which keyword is used to define a function in Python?,func|define|def|function,def
+Which symbol is used for comments in Python?,//|#|/*|--,#
+Which function is used to take input from the user?,input()|scan()|read()|get(),input()
+What is the output of print(2 ** 3)?,6|8|9|5,8
+Which data type stores True or False values?,int|float|bool|str,bool
+How do you create a list in Python?,{}|()|[]|<>,[]
+Which keyword is used for conditional statements?,if|when|check|case,if
+Which function returns the length of a list?,count()|size()|len()|length(),len()
+What is the output of print("Hello"[0])?,H|e|l|o,H

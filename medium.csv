@@ -1,0 +1,11 @@
+question,options,answer
+Which of the following is a mutable data type?,tuple|string|list|int,list
+What does the len() function return?,Type|Index|Length|Value,Length
+What is the output of print(bool(0))?,True|False|0|None,False
+Which operator is used for floor division?,/|%|//|**,//
+Which keyword is used to handle exceptions?,try|catch|error|handle,try
+What is the output of print(type(3.14))?,<class 'int'>|<class 'float'>|<class 'str'>|<class 'bool'>,<class 'float'>
+Which collection does not allow duplicate values?,list|tuple|set|dict,set
+What does break do in a loop?,Stops program|Skips iteration|Exits loop|Pauses loop,Exits loop
+What is the output of print("Python".lower())?,PYTHON|python|Python|Error,python
+Which function converts a string to an integer?,str()|int()|float()|input(),int()

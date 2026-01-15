@@ -1,0 +1,11 @@
+question,options,answer
+What is a lambda function in Python?,Anonymous function|Recursive function|Loop|Class,Anonymous function
+Which keyword is used to create a generator?,yield|return|gen|produce,yield
+What is the output of print([i*i for i in range(3)])?,[1,4,9]|[0,1,4]|[0,1,4,9]|[1,2,3],[0,1,4]
+What does __init__() do in a class?,Deletes object|Creates class|Initializes object|Runs program,Initializes object
+Which module is used for regular expressions?,regex|re|pyregex|match,re
+What is the output of print(type(None))?,<class 'None'>|<class 'null'>|<class 'NoneType'>|<class 'void'>,<class 'NoneType'>
+Which keyword is used to raise an exception?,throw|raise|error|except,raise
+What is the purpose of pass statement?,Ends program|Skips loop|Does nothing|Breaks loop,Does nothing
+Which function returns an iterator?,range()|list()|tuple()|set(),range()
+What is method overriding?,Same method name in subclass|Same variable name|Multiple inheritance|Function overloading,Same method name in subclass
